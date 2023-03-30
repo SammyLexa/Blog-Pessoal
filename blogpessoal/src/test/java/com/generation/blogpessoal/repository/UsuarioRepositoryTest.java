@@ -29,16 +29,16 @@ public class UsuarioRepositoryTest {
 
 		usuarioRepository.deleteAll();
 
-		usuarioRepository.save(new Usuario(0L, "Pedro Silva", "pedro.maria@gmail.com", "12345678",
+		usuarioRepository.save(new Usuario(0L, "João da Silva", "joao@email.com.br", "13465278",
 				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Ea9cyIi_U8y7mgzqX1SitKtppQOzlciXA&usqp=CAU"));
 		
-		usuarioRepository.save(new Usuario(0L, "Dominika Silva", "domikas@gmail.com", "12345678",
+		usuarioRepository.save(new Usuario(0L, "Manuela da Silva", "manuela@email.com.br", "13465278",
 				"https://www.google.com/imgres?imgurl=https%3A%2F%2Fpontodamulher.com.br%2Fsites%2Fdefault%2Ffiles%2F2022-10%2Ffoto-de-perfil-tres-dicas-fundamentais-para-transmitir-imagem-que-deseja.jpg&tbnid=JykOEfdHpe56kM&vet=12ahUKEwifhf-7moP-AhWeHbkGHZdADgYQMygBegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fpontodamulher.com.br%2Ffoto-de-perfil&docid=XKhI_v_e5x8NlM&w=1199&h=1200&q=foto%20de%20perfil&ved=2ahUKEwifhf-7moP-AhWeHbkGHZdADgYQMygBegUIARDhAQ"));
 		
-		usuarioRepository.save(new Usuario(0L, "Barbara Silva", "barbieseca@gmail.com", "12345678",
+		usuarioRepository.save(new Usuario(0L, "Adriana da Silva", "adriana@email.com.br", "13465278",
 				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBmWhfwMbvpK2Q4uUVJZ4pZwZAWj4wJ85Qw&usqp=CAU"));
 				
-		usuarioRepository.save(new Usuario(0L, "Agatha Silva", "sadagatha@gmail.com", "12345678",
+		usuarioRepository.save(new Usuario(0L, "Paulo Antunes", "paulo@email.com.br", "13465278",
 				"https://www.google.com/imgres?imgurl=https%3A%2F%2F4maos.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2F4961564f580a845ef67e52b4da070902.jpg&tbnid=pJ6ZwVHSpnPL_M&vet=12ahUKEwifhf-7moP-AhWeHbkGHZdADgYQMygEegUIARDnAQ..i&imgrefurl=https%3A%2F%2F4maos.com.br%2Ffotos-para-perfil-do-whatsapp%2F&docid=snE0ZTXHVmDksM&w=564&h=564&itg=1&q=foto%20de%20perfil&ved=2ahUKEwifhf-7moP-AhWeHbkGHZdADgYQMygEegUIARDnAQ"));
 		
 	}
@@ -47,8 +47,8 @@ public class UsuarioRepositoryTest {
 	@DisplayName("Retorna 1 usuario")
 	public void deveRetornarUmUsuario() {
 
-		Optional<Usuario> usuario = usuarioRepository.findByUsuario("pedro.maria@gmail.com");
-		assertTrue(usuario.get().getUsuario().equals("pedro.maria@gmail.com"));
+		Optional<Usuario> usuario = usuarioRepository.findByUsuario("joao@email.com.br");
+		assertTrue(usuario.get().getUsuario().equals("joao@email.com.br"));
 	}
 	
 	@Test
@@ -56,10 +56,12 @@ public class UsuarioRepositoryTest {
 	public void deveRetornarTresUsuarios() {
 
 		List<Usuario> listaDeUsuarios = usuarioRepository.findAllByNomeContainingIgnoreCase("Silva");
+
 		assertEquals(3, listaDeUsuarios.size());
-		assertTrue(listaDeUsuarios.get(0).getNome().equals("Pedro Silva"));
-		assertTrue(listaDeUsuarios.get(1).getNome().equals("Dominika Silva"));
-		assertTrue(listaDeUsuarios.get(2).getNome().equals("Agatha Silva"));
+		
+		assertTrue(listaDeUsuarios.get(0).getNome().equals("João da Silva"));
+		assertTrue(listaDeUsuarios.get(1).getNome().equals("Manuela da Silva"));
+		assertTrue(listaDeUsuarios.get(2).getNome().equals("Adriana da Silva"));
 		
 	}
 	
