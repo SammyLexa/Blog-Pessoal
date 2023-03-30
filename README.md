@@ -2,10 +2,10 @@
 ## Introdução
 Projeto de Blog Pessoal desenvolvido no bootcamp da Generation Brasil
 
-## Funcionalidades: CRUD (Create ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png), Read ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png), Update![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png), Delete ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png))
+## Funcionalidades: CRUD (Create ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png), Read ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png), Update ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png), Delete ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png))
 - Cadastra Postagem ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
 - Cadastra Tema ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
-- Cadastra Usuário![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
+- Cadastra Usuário ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
 - Consulta por ID de Postagem ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
 - Consulta por ID de Tema ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
 - Consulta por ID de Usuário ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
