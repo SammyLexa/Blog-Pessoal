@@ -1,0 +1,5 @@
+package com.generation.farmacia.service;
+
+public class UsuarioService {
+
+}
