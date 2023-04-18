@@ -1,8 +1,31 @@
-# Blog-Pessoal (Back-End)
-## Introdução
-Projeto de Blog Pessoal desenvolvido no bootcamp da Generation Brasil
+# Blog Pessoal (BACKEND)
+## CRUD de um blog para compartilhar conhecimentos de Front-End
 
-# ![Front-End](https://user-images.githubusercontent.com/123910027/232590725-75faca3c-2f8d-48d3-a93d-d71e2875e3f5.png)
+
+## ![Front-End](https://user-images.githubusercontent.com/123910027/232590725-75faca3c-2f8d-48d3-a93d-d71e2875e3f5.png)
+
+
+![Badge concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![AXIOS](https://img.shields.io/badge/AXIOS-%23039BE5.svg?&style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- [Introdução](#introdução)
+- [Frpnt-End e outros Detalhes](https://github.com/SammyLexa/Blog-Pessoal-FrontEnd/blob/main/README.md)
+- [Funcionalidades](#funcionalidades-crud-create--read--update--delete-)
+- [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
+- [Desenvolvedora](#desenvolvedora)
+
+## Introdução
+
+O software é um Blog, focado em compartilhar conhecimentos de Front-End . Capaz de Realizar todas funções CRUD(Criar, Consultar, Atualizar e 
+Deletar).
+Criado com o objetivo de aprimorar meus conhecimentos de Java, Spring, Insomnia e MySQL.
+
 
 ## Funcionalidades: CRUD (Create ![icons8-adicionar-24](https://user-images.githubusercontent.com/123910027/232770812-7ba047c1-c32c-4100-81c6-a0b42b77fbb5.png), Read ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232770834-b83c83d2-502f-4f57-a10e-d75f8479222b.png), Update ![icons8-atualizações-disponíveis-24 (1)](https://user-images.githubusercontent.com/123910027/232770854-83c0e42a-552c-4c60-9b88-024c493c16fc.png), Delete ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232770872-9ac6b285-0ebc-4992-9e0d-c439276bd7e1.png))
 
@@ -70,7 +93,12 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
 ##
 
 
-<h2>Desenvolvedora:</h2>
+##
+## Desenvolvedora:
+<br>
+  
+##
+
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227732191-4385c938-5b77-4feb-8d64-a5b486763fdd.jpg" alt="Imagem de Samantha Alexandra Pereira"></br>
   - <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - <a href="https://github.com/SammyLexa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -85,4 +113,3 @@ Estou animada para contribuir com minhas habilidades e aprender com desenvolvedo
 Entendo que esta profissão requer um alto nível de adaptabilidade e habilidades de resolução de problemas, e estou confiante em minhas capacidades. Não tenho medo de fazer perguntas ou buscar ajuda quando necessário e estou empenhada em me manter atualizada com as últimas tendências e melhores práticas para ser uma desenvolvedora bem-sucedida e de excelência.
 
 ##
-
