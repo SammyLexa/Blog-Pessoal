@@ -70,13 +70,14 @@ Criado com o objetivo de aprimorar meus conhecimentos de Java, Spring, Insomnia 
 - Deleta Usuário ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232771910-c0133d0f-edc2-4afe-9533-99b4fa2f4ace.png)
 
 
-<h3>Ferramentas, Linguagens, Frameworks e Banco de Dados utilizados: Java com Spring, Insomnia e MySQL.</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Insomnia" height="70" src="https://lh3.googleusercontent.com/t9RZENc11VWioLAGpGh2NYHop8MmVwKRVVi_9CX6dDO_WG9oQBp7jRUmlT0dtHeIWAd6XKDPUj5YU7G7d6bCKSdbSI8=w128-h128-e365-rj-sc0x00ffffff">
-  <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+<h3>Ferramentas, Linguagens, Frameworks e Banco de Dados utilizados:</h3>
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-39457E?style=for-the-badge&=insomniaColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=0000FF)
+
 
 <h3>O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?🎓</h3>
 
